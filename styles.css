@@ -15,7 +15,7 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.c-major{
+.container{
     background-color: rgba(151, 115, 68, 0.377);
     width:600px;
     padding:3px
@@ -25,7 +25,7 @@ h1{
 img{
     width:600px;
     height:auto;
-    
+
 }
 
 section, img{
