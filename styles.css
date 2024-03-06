@@ -41,4 +41,10 @@ section, img{
 
 
 }
+a:link{
+    color:brown;
+}
 
+a:visited{
+    color: darkred;
+}
